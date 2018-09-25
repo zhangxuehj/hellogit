@@ -1,0 +1,42 @@
+.full-height{
+  /*min-height: fill-available!important;*/
+  height: 100%;
+}
+.full-width{
+  width: 100%;
+}
+.scroll-hidden{
+	overflow: hidden;
+}
+.fleft{
+	float: left;
+}
+.fright{
+	float: right;
+}
+.cboth{
+	clear: both;
+}
+.v-center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.one-third{
+	width: 32%;
+}
+
+.one-second{
+	width: 48%;
+}
+.margin-b-20{
+	margin-bottom: 20px;
+}
+.margin-l-2P{
+	margin-left: 2%;
+}
+.inline-ele{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+}
